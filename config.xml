@@ -13,6 +13,8 @@
   <plugin name="cordova-plugin-dialogs"/>
   <plugin name="cordova-plugin-device"/>
   <plugin name="cordova-plugin-device-motion"/>
+  <plugin name="cordova-plugin-network-information"/>
+
   <feature name="Device">
     <param name="android-package" value="org.apache.cordova.device.Device" />
 </feature>
